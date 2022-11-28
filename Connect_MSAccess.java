@@ -5,7 +5,7 @@ import net.ucanaccess.jdbc.*;
 public class Connect_MSAccess {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub - Mukesh
 		try
 		{
 			   Connection conn = DriverManager.getConnection("jdbc:ucanaccess://C:/JDBC-ODBC/Database1.accdb");
